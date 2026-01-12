@@ -1,0 +1,13 @@
+public class CompOperator {
+    public static void main(String[] args){
+        // Comparison operators
+        /*
+        * a==b
+        * a!=b
+        * a<b
+        * a>b
+        * a<=b
+        * a>=b*/
+
+    }
+}
